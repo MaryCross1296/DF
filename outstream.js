@@ -6036,7 +6036,7 @@
     ];
     const PLAYER_CLASS = "df-player";
     const TEST_BUILD_URL = "https://vst.dfdev.tbhost.org";
-    const PROD_BUILD_URL = "https://vst.dfnetwork.link";
+    const PROD_BUILD_URL = "https://vst.dfdev.tbhost.org";
 
     let isImpressed = false;
     const autoPlayPause = (video, tracker) => {
